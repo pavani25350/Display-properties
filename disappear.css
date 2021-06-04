@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(38, 194, 218);
+}
+
+/**::after{
+    background: linear-gradient(orange,blue);
+}*/
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+    background-color: aqua;
+    position: absolute;
+    
+}  
+div .abc
+{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border : 1px solid black;
+    border-radius: 7px;
+    background-color: white;
+}
+.btn
+{
+    margin:30px;
+}
+div img{
+    margin-top:30px;
+}
+/*div{
+    margin-top:1%;
+}
+.container-fluid
+{
+    background:linear-gradien(blue,white);
+    height:100%;
+}
+/*.container
+{
+    width:700px;
+    max-width: 100%;
+    background-color:orange;
+    border-radius: 15px;
+
+}*/
+
